@@ -1,5 +1,8 @@
 # Trabalho FATEC-RP
 
+Apresenta um exemplo de projeto, de um sonar, apresentando um paralelo, onde aborda a apresentação física do principio. Criando um paralelo, entre o projeto do ultrassom , e seu respectivo uso na medicina.
+
+
 ## Ultrassom
 O ultrassom, fenômeno sonoro de frequência acima da capacidade auditiva humana, encontra aplicações em diversos campos da ciência e tecnologia. Desde imagens médicas que nos permitem ter uma primeira visão de um bebê ainda no útero até a limpeza industrial, as ondas ultrassônicas são ferramentas poderosas. Uma das aplicações mais fascinantes do ultrassom é o sonar, usado para navegação e detecção de objetos, desempenhando um papel fundamental na exploração subaquática. Hoje, com a crescente acessibilidade da tecnologia, até mesmo plataformas de hardware de código aberto, como o Arduino, estão sendo utilizadas para demonstrar os princípios do ultrassom. Nesta apresentação, mergulharemos nos princípios do ultrassom, exploraremos sua aplicação em sonar e demonstraremos sua prática com uma montagem simples usando o Arduino Nano.
 
